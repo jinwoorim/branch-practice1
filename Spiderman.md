@@ -1,11 +1,8 @@
-# Spider-Man 1
-- Year: 2002
+# Amazing Spider-Man 1
+- Year: 2012
 - Name: Peter Benjamin Parker
 
-# Spider-Man 2
+# Amazing Spider-Man 2
 - Year: 2004
 - Name: Peter Benjamin Parker
 
-# Spider-Man 3
-- Year: 2007
-- Name: Peter Bengamin Parker

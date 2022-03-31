@@ -1,11 +1,19 @@
-# Spider-Man 1
-- Year: 2002
+# Captain America: Civil War
+- Year: 2016
 - Name: Peter Benjamin Parker
 
-# Spider-Man 2
-- Year: 2004
+# Spider-Man: Home Coming
+- Year: 2017
 - Name: Peter Benjamin Parker
 
-# Spider-Man 3
-- Year: 2007
+# Avengers: Infinity War
+- Year: 2018
+- Name: Peter Bengamin Parker
+
+# Avengers: Endgame
+- Year: 2019
+- Name: Peter Bengamin Parker
+
+# Spider-Man: Far From Home
+- Year: 2019
 - Name: Peter Bengamin Parker
